@@ -1,3 +1,4 @@
 .git
 .idea
-ListDirFileNames.py
+output.txt
+README.md
