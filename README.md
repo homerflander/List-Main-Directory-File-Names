@@ -16,8 +16,6 @@ Incorrect Parameters Attempts, Error Message Given: <br />
 ![error](/demo/3.png)
 
 Correct Parameters Attempts, Script Ran and Successful: <br />
-1. "python ListDirFileNames.py" lacks the name of the output text file.
-2. "python ListDirFileNames.py output1.txt output2.txt" has one too many output text file paramters.
 ![sucess](/demo/4.png)
 
 File Explorer/Command Prompt, Check that Output Text File is Created: <br />
