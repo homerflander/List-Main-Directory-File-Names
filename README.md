@@ -13,13 +13,11 @@ Command Prompt, Looking at the Test Folder Main Directory: <br />
 <br />
 File Explorer, Looking at the Test Folder Main Directory: <br />
 ![explorerfolder](/demo/2.png)
-<br />
-<br />
-<br />
+<br /><br /><br />
 Incorrect Parameters Attempts, Error Message Given: <br />
 1. "python ListDirFileNames.py" lacks the name of the output text file.<br />
 2. "python ListDirFileNames.py output1.txt output2.txt" has one too many output text file paramters.<br />
-![errorcheck](/demo/3.png)
+(/demo/3.png)
 <br /><br /><br />
 Correct Parameters Attempts, Script Ran and Successful: <br />
 (/demo/4.png)
