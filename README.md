@@ -1,4 +1,4 @@
-# List-Directory-File-Names (Complete/Working)
+# List-Directory-File-Names (Completed/Working)
 This is a simple script that creates a list of names for the files/folder within the same directory and outputs it to a text file. The name of the output text file is needed as a parameter. <br />
 
 Note(s): <br />
