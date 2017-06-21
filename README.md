@@ -24,7 +24,7 @@ Incorrect Parameters Attempts, Error Message Given: <br />
 <br />
 <br />
 Correct Parameters Attempts, Script Ran and Successful: <br />
-![success](/demo/4.png)
+![done](/demo/4.png)
 <br />
 <br />
 <br />
