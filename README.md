@@ -17,8 +17,8 @@ File Explorer, Looking at the Test Folder Main Directory: <br />
 <br />
 <br />
 Incorrect Parameters Attempts, Error Message Given: <br />
-1. "python ListDirFileNames.py" lacks the name of the output text file.
-2. "python ListDirFileNames.py output1.txt output2.txt" has one too many output text file paramters.
+1. "python ListDirFileNames.py" lacks the name of the output text file.<br />
+2. "python ListDirFileNames.py output1.txt output2.txt" has one too many output text file paramters.<br />
 ![error](/demo/3.png)
 <br />
 <br />
