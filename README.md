@@ -6,12 +6,12 @@ The python script name itself is excluded. <br />
 Possible improvement is to have the script run a recursive function to search through the folders within the main directory and return file/folder names. <br />
 
 --------------------Demonstration--------------------<br />
-Command Prompt, Looking at the Test Main Folder Directory: <br />
+Command Prompt, Looking at the Test Folder Main Directory: <br />
 ![cdmfolder](/demo/1.png)
 <br />
 <br />
 <br />
-File Explorer, Looking at the Test Main Folder Directory: <br />
+File Explorer, Looking at the Test Folder Main Directory: <br />
 ![explorerfolder](/demo/2.png)
 <br />
 <br />
