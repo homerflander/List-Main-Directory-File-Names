@@ -1,4 +1,4 @@
-# List-Directory-File-Names V1 (Completed/Working)
+# List-Directory-File-NamesV1 (Completed/Working)
 This is a simple script that creates a list of names for the files/folder within the same directory and outputs it to a text file. The name of the output text file is needed as a parameter. <br />
 Note(s): <br />
 -The python script name itself is excluded. <br />
