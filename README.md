@@ -3,7 +3,8 @@ This is a simple script that creates a list of names for the files/folder within
 Note(s): <br />
 -The python script name itself is excluded. <br />
 <br />
--Possible improvement is to have the script run a recursive function to search through the folders within the main directory and return sub file/folder names. (Currently in the Works) <br />
+-Possible improvement is to have the script run a recursive function to search through the folders within the main directory and return sub file/folder names. (See https://github.com/homerflander/List-Directory-File-NamesV2) <br />
+<br />
 --------------------Demonstration--------------------<br />
 Command Prompt, Looking at the Test Folder Main Directory: <br />
 ![cdmfolder](/demo/1.png)
