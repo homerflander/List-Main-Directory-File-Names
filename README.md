@@ -1,9 +1,10 @@
 # List-Directory-File-NamesV1 (Completed/Working)
-This is a simple script that creates a list of names for the files/folder within the same directory and outputs it to a text file. The name of the output text file is needed as a parameter. <br />
+This is a simple script that creates a list of names for the files/folder within the same directory and outputs it to a text file. The name of the output text file is needed as a parameter. Created and Tested on Windows OS. <br />
 Note(s): <br />
 -The python script name itself is excluded. <br />
 <br />
 -Possible improvement is to have the script run a recursive function to search through the folders within the main directory and return sub file/folder names. (See https://github.com/homerflander/List-Directory-File-NamesV2) <br />
+-Created and Tested on Windows OS. <br />
 <br />
 --------------------Demonstration--------------------<br />
 Command Prompt, Looking at the Test Folder Main Directory: <br />
