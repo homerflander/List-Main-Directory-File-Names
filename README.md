@@ -4,6 +4,7 @@ Note(s): <br />
 -The python script name itself is excluded. <br />
 <br />
 -Possible improvement is to have the script run a recursive function to search through the folders within the main directory and return sub file/folder names. (See https://github.com/homerflander/List-Directory-File-NamesV2) <br />
+<br />
 -Created and Tested on Windows OS. <br />
 <br />
 --------------------Demonstration--------------------<br />
