@@ -1,5 +1,6 @@
 import os
 import sys
+import io
 
 if len(sys.argv) is not 2:#takes in one argument for output textfile.
     sys.exit("Error, script needs one command-line argument. (output.txt File)")
@@ -25,6 +26,6 @@ print("Now writing the following list of file names to %s" %sys.argv[1])
 print(list)
 
 #open output text file and write the file name list. Then close output file.
-FILEOUT = open(sys.argv[1], 'w')
+FILEOUT=io.open(sys.argv[1], "w", encoding='utf-8')
 FILEOUT.write(list)
 FILEOUT.close()
